@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Lles de Cerdanya",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-04T14:53:09.164Z",
+      "notes": "this is a note about lles de cerdanya",
+      "position": {
+        "lat": "42.415346114253616",
+        "lng": "1.636962890625"
+      },
+      "id": "dRKetOrSdno"
+    },
+    {
+      "cityName": "Gignac",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-06-04T19:43:45.821Z",
+      "notes": "",
+      "position": {
+        "lat": "45.00365115687186",
+        "lng": "1.4282226562500002"
+      },
+      "id": "9naxRMe0ot4"
+    },
+    {
+      "cityName": "Andorra",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-04T20:26:55.153Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-0.48339843750000006"
+      },
+      "id": "bPDvXZT2N-s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
