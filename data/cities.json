@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Lles de Cerdanya",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-06-04T14:53:09.164Z",
-      "notes": "this is a note about lles de cerdanya",
-      "position": {
-        "lat": "42.415346114253616",
-        "lng": "1.636962890625"
-      },
-      "id": "dRKetOrSdno"
-    },
-    {
       "cityName": "Gignac",
       "countryName": "France",
       "emoji": "🇫🇷",
@@ -47,6 +23,78 @@
         "lng": "-0.48339843750000006"
       },
       "id": "bPDvXZT2N-s"
+    },
+    {
+      "cityName": "Pouy-Roquelaure",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-06-04T20:32:45.676Z",
+      "notes": "",
+      "position": {
+        "lat": "44.02442151965934",
+        "lng": "0.5383300781250001"
+      },
+      "id": "OEv1X6kcEdk"
+    },
+    {
+      "cityName": "Saint-Agnet",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-06-10T16:57:35.801Z",
+      "notes": "",
+      "position": {
+        "lat": "43.59630591596551",
+        "lng": "-0.28564453125000006"
+      },
+      "id": "TH2htj5nH2k"
+    },
+    {
+      "cityName": "Les Touches-de-Perigny",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-06-10T16:58:08.036Z",
+      "notes": "",
+      "position": {
+        "lat": "45.89000815866184",
+        "lng": "-0.25268554687500006"
+      },
+      "id": "70F9wBWHmrY"
+    },
+    {
+      "cityName": "Spain",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-10T16:58:12.503Z",
+      "notes": "",
+      "position": {
+        "lat": "37.483576550426996",
+        "lng": "-1.329345703125"
+      },
+      "id": "0DWkrqMdoKg"
+    },
+    {
+      "cityName": "Pozuel del Campo",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-10T16:58:20.657Z",
+      "notes": "",
+      "position": {
+        "lat": "40.78054143186033",
+        "lng": "-1.5380859375000002"
+      },
+      "id": "POY_ZZlfSgc"
+    },
+    {
+      "cityName": "Lodosa",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-10T17:00:40.073Z",
+      "notes": "",
+      "position": {
+        "lat": "42.382894009614034",
+        "lng": "-2.0874023437500004"
+      },
+      "id": "eM10OWbDY-M"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
