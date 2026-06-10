@@ -18,7 +18,7 @@ export default function Homepage() {
 					you have wandered the world.
 				</h2>
 				<Link
-					to='/app'
+					to='/login'
 					className='cta inline-block px-[3rem] py-[1rem] font-semibold text-[1.6rem] rounded-[5px] uppercase'>
 					Start tracking now
 				</Link>

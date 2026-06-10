@@ -37,18 +37,6 @@
       "id": "OEv1X6kcEdk"
     },
     {
-      "cityName": "Saint-Agnet",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2026-06-10T16:57:35.801Z",
-      "notes": "",
-      "position": {
-        "lat": "43.59630591596551",
-        "lng": "-0.28564453125000006"
-      },
-      "id": "TH2htj5nH2k"
-    },
-    {
       "cityName": "Les Touches-de-Perigny",
       "countryName": "France",
       "emoji": "🇫🇷",
@@ -95,6 +83,42 @@
         "lng": "-2.0874023437500004"
       },
       "id": "eM10OWbDY-M"
+    },
+    {
+      "cityName": "Herradon de Pinares",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-10T20:47:44.797Z",
+      "notes": "",
+      "position": {
+        "lat": "40.57224011776902",
+        "lng": "-4.592285156250001"
+      },
+      "id": "krS2jkwECsM"
+    },
+    {
+      "cityName": "Despotovac",
+      "countryName": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2026-06-10T20:47:50.690Z",
+      "notes": "",
+      "position": {
+        "lat": "44.08758502824518",
+        "lng": "21.621093750000004"
+      },
+      "id": "EthscHXR0rU"
+    },
+    {
+      "cityName": "Carrick-on-Suir",
+      "countryName": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2026-06-10T20:47:59.066Z",
+      "notes": "",
+      "position": {
+        "lat": "52.61639023304539",
+        "lng": "-7.602539062500001"
+      },
+      "id": "x42oPv0gRH0"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

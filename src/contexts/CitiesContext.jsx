@@ -1,10 +1,4 @@
-import {
-	createContext,
-	useState,
-	useEffect,
-	useContext,
-	useReducer,
-} from 'react';
+import { createContext, useEffect, useContext, useReducer } from 'react';
 import { BASE_URL } from '../App';
 
 const CitiesContext = createContext();
