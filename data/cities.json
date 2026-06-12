@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Gignac",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2026-06-04T19:43:45.821Z",
-      "notes": "",
-      "position": {
-        "lat": "45.00365115687186",
-        "lng": "1.4282226562500002"
-      },
-      "id": "9naxRMe0ot4"
-    },
-    {
       "cityName": "Andorra",
       "countryName": "Spain",
       "emoji": "🇪🇸",
@@ -107,6 +95,54 @@
         "lng": "0.9338378906250001"
       },
       "id": "jVDa2rq4alY"
+    },
+    {
+      "cityName": "Bustillo del Paramo",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-12T17:51:18.735Z",
+      "notes": "",
+      "position": {
+        "lat": "42.431565872579185",
+        "lng": "-5.73486328125"
+      },
+      "id": "lstoQUi0fL0"
+    },
+    {
+      "cityName": "Ottawa",
+      "countryName": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2026-06-12T17:51:37.180Z",
+      "notes": "",
+      "position": {
+        "lat": "45.30580259943578",
+        "lng": "-75.58593750000001"
+      },
+      "id": "m_xqXHcJN6s"
+    },
+    {
+      "cityName": "Santa Cruz de la Zarza",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-06-12T17:55:04.815Z",
+      "notes": "",
+      "position": {
+        "lat": "39.90130858574738",
+        "lng": "-3.2189941406250004"
+      },
+      "id": "01dV93XJzAU"
+    },
+    {
+      "cityName": "Berlin",
+      "countryName": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2026-06-12T17:56:25.173Z",
+      "notes": "",
+      "position": {
+        "lat": "52.46939684276205",
+        "lng": "13.46923828125"
+      },
+      "id": "IS4zn_9QRaw"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
