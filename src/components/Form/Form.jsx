@@ -1,4 +1,3 @@
-// "https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=0&longitude=0"
 import 'react-datepicker/dist/react-datepicker.css';
 import { useEffect, useState } from 'react';
 
