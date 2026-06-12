@@ -13,18 +13,6 @@
       "id": "bPDvXZT2N-s"
     },
     {
-      "cityName": "Pouy-Roquelaure",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2026-06-04T20:32:45.676Z",
-      "notes": "",
-      "position": {
-        "lat": "44.02442151965934",
-        "lng": "0.5383300781250001"
-      },
-      "id": "OEv1X6kcEdk"
-    },
-    {
       "cityName": "Spain",
       "countryName": "Spain",
       "emoji": "🇪🇸",
@@ -59,30 +47,6 @@
         "lng": "-2.0874023437500004"
       },
       "id": "eM10OWbDY-M"
-    },
-    {
-      "cityName": "Herradon de Pinares",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-06-10T20:47:44.797Z",
-      "notes": "",
-      "position": {
-        "lat": "40.57224011776902",
-        "lng": "-4.592285156250001"
-      },
-      "id": "krS2jkwECsM"
-    },
-    {
-      "cityName": "Despotovac",
-      "countryName": "Serbia",
-      "emoji": "🇷🇸",
-      "date": "2026-06-10T20:47:50.690Z",
-      "notes": "",
-      "position": {
-        "lat": "44.08758502824518",
-        "lng": "21.621093750000004"
-      },
-      "id": "EthscHXR0rU"
     },
     {
       "cityName": "Salas de Pallars",
@@ -143,6 +107,30 @@
         "lng": "13.46923828125"
       },
       "id": "IS4zn_9QRaw"
+    },
+    {
+      "cityName": "Uverito",
+      "countryName": "Venezuela (Bolivarian Republic of)",
+      "emoji": "🇻🇪",
+      "date": "2026-06-12T17:57:50.294Z",
+      "notes": "",
+      "position": {
+        "lat": "8.015715997869071",
+        "lng": "-64.99511718750001"
+      },
+      "id": "QZjC2Q6zsTs"
+    },
+    {
+      "cityName": "Turks and Caicos Islands (the)",
+      "countryName": "Turks and Caicos Islands (the)",
+      "emoji": "🇹🇨",
+      "date": "2026-06-12T17:58:01.240Z",
+      "notes": "",
+      "position": {
+        "lat": "21.37124437061832",
+        "lng": "-72.07031250000001"
+      },
+      "id": "eRLR3QZHsc4"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

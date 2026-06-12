@@ -7,12 +7,12 @@ export default function Homepage() {
 		<main className={styles.homepage}>
 			<PageNav />
 			<section className='flex flex-col items-center justify-center gap-[2.5rem] text-center h-[85%]'>
-				<h1 className='text-[4.5rem] leading-[1.3] font-semibold'>
+				<h1 className='text-[5rem] leading-[1.3] font-bold'>
 					You travel the world.
 					<br />
 					WorldWise keeps track of your adventures.
 				</h1>
-				<h2 className='text-[1.9rem] text-[#aaa] mb-10 block w-[90%]'>
+				<h2 className='text-[2.3rem] text-[#aaa] mb-10 block w-[90%]'>
 					A world map that tracks your footsteps into every city you can think
 					of. Never forget your wonderful experiences, and show your friends how
 					you have wandered the world.
